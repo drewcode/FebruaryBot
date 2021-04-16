@@ -1,0 +1,2 @@
+# FebruaryBot
+Simple Discord Bot
